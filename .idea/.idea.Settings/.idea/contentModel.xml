@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\aleks\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\aleks\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Settings.-967750613.00" t="ExcludeRecursive" />
+    <e p="C:\Users\aleks\Working\UnityProjects\Settings" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="SettingsContainer.cs" t="Include" />
+          <e p="SettingsDataHandler.cs" t="Include" />
+          <e p="SettingsManager.cs" t="Include" />
+          <e p="TexturesResolution.cs" t="Include" />
+        </e>
+        <e p="StreamingAssets" t="Include">
+          <e p="settings.json" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Settings.sln" t="IncludeFlat" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

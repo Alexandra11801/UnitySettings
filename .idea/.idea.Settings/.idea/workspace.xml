@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1492e8b0-967a-470a-8e6a-2ba0dd459c5c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../1 курс/Project000/.idea/Project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1 курс/SemesterWork/Introsort/Introsort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/2 курс/DA_01/Maven_Game/Server/Server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/3 курс/data_analysis/ControlWork/ControlWork.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/3 курс/data_analysis/ControlWork/src/main/java/Preprocessing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/3 курс/data_analysis/SplayTree/SplayTree.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/3 курс/data_analysis/bernoulli/bernoulli.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/3 курс/data_analysis/k_means/.idea/k_means.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/3 курс/data_analysis/k_means/k_means.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/3 курс/data_analysis/kohonen/kohonen.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/3 курс/data_analysis/med/med.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/3 курс/data_analysis/perceptrons/perceptrons04/perceptrons04.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/3 курс/data_analysis/perceptrons/perceptrons_02/perceptrons_02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/3 курс/data_analysis/perceptrons/perceptrons_03/.idea/perceptrons_03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/3 курс/data_analysis/perceptrons/perceptrons_03/perceptrons_03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/3 курс/data_analysis/perceptrons/perseptrons/.idea/perseptrons.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/3 курс/data_analysis/perceptrons/perseptrons/perseptrons.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/3 курс/data_analysis/regression/regression_01/regression_01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/3 курс/data_analysis/test/src/main/java/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/3 курс/data_analysis/test/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/3 курс/testing/autotest/autotest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/4 курс/Теория систем/balance/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/4 курс/Теория систем/balance/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/4 курс/Теория систем/balance/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/4 курс/Теория систем/balance/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/4 курс/Теория систем/balance/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/4 курс/Теория систем/balance/balance.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/4 курс/Теория систем/balance/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/4 курс/Теория систем/blockchain/src/main/java/blockchain/blockchain/Block.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/4 курс/Теория систем/blockchain/src/main/java/blockchain/blockchain/BlockChainIOUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/4 курс/Теория систем/blockchain/src/main/java/blockchain/blockchain/BlockChainUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/4 курс/Теория систем/blockchain/src/main/java/blockchain/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/4 курс/Теория систем/blockchain/src/main/java/blockchain/regression/NeuralNetwork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/4 курс/Теория систем/blockchain/src/main/java/blockchain/timestamp/TSClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/4 курс/Теория систем/blockchain/src/main/java/blockchain/utils/GeneralUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/4 курс/Теория систем/blockchain/src/main/java/blockchain/utils/HashUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/4 курс/Теория систем/blockchain/src/main/java/blockchain/utils/SignatureUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/4 курс/Теория систем/blockchain/src/main/java/blockchain/utils/XLSXUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PyCharmProjects/data_analysis/picture_analysis/model01/.idea/model01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PyCharmProjects/data_analysis/picture_analysis/pythonProject/.idea/pythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PyCharmProjects/data_analysis/picture_analysis/pythonProject1/.idea/pythonProject1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee wars/.idea/.idea.Coffee wars/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kangaroos and coffee/.idea/.idea.Kangaroos and coffee/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SemesterWorkGame/.idea/.idea.SemesterWorkGame/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VS/AR_Project02/.idea/.idea.AR_Project02/riderModule.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JSON File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SettingsManager.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/SettingsContainer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TexturesResolution.cs" />
+        <option value="$PROJECT_DIR$/Assets/StreamingAssets/settings.json" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SettingsManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SettingsDataHandler.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="20SyGFq9NCAg6s9tRDOfOunhtj2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1492e8b0-967a-470a-8e6a-2ba0dd459c5c" name="Default Changelist" comment="" />
+      <created>1636052203945</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636052203945</updated>
+      <workItem from="1636052240028" duration="6706000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
